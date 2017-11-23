@@ -1,8 +1,0 @@
-Credentials cache: API:5216D85B-A9FD-460A-A57E-83EBF1693880
-        Principal: mkamel@42.FR
-
-  Issued                Expires               Principal
-Aug 29 14:14:54 2017  Sep  5 14:14:54 2017  krbtgt/42.FR@42.FR
-Aug 29 14:14:55 2017  Sep  5 14:14:54 2017  ldap/ldap-proxy.42.fr@42.FR
-Aug 29 14:14:55 2017  Sep  5 14:14:54 2017  HTTP/student-storage-2.42.fr@42.FR
-Aug 29 15:01:04 2017  Sep  5 14:14:54 2017  host/vgs-fn1.42.fr@42.FR
