@@ -1,4 +1,4 @@
-#titrePush_Swap_Project . 
+# Push_Swap_Project
 
 > Le projet Push_swap est un projet d’algo simple et efficace : il faut trier. Vous avez à votre disposition un ensemble d’entiers, deux piles, et un ensemble d’instructions pour manipuler les piles. 
 Votre but ? Ecrire deux programmes en C :  
