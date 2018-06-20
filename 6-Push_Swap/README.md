@@ -1,4 +1,4 @@
-#Push_Swap Project . 
+#titre Push_Swap Project . 
 
 Le projet Push_swap est un projet d’algo simple et efficace : il faut trier. Vous avez à votre disposition un ensemble d’entiers, deux piles, et un ensemble d’instructions pour manipuler les piles. 
 Votre but ? Ecrire deux programmes en C :  
@@ -9,7 +9,7 @@ Votre but ? Ecrire deux programmes en C :
 Every .c file in my project is commented, to make it easier to understand it.  
 Different bonus flags can be added . 
 For the Push_Swap program . 
-  -q to do it only using Quicksort algorythm . 
-  -c to print in colors . 
-  -v to print the stacks at the beginning, midtime and finally at the end . 
+  * -q to do it only using Quicksort algorythm . 
+  * -c to print in colors . 
+  * -v to print the stacks at the beginning, midtime and finally at the end . 
   
